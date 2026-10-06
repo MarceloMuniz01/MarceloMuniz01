@@ -8,20 +8,20 @@ Backend Engineer focused on building secure, scalable, and high-performance fina
 
 ## 📌 Featured Projects
 
-### 💳 1. Dynamic PIX Payment Checkout
+### 💳 1. Dynamic PIX Payment Checkout (soon)
 **High-performance digital products checkout system built with Node.js and Express.**
 * **Core Features:** Implements a dynamic checkout pipeline specifically tailored for digital goods. Features asynchronous payment tracking using webhooks for instant PIX confirmations, an SMTP-driven notification layer, and a highly customizable post-payment pipeline capable of triggering multiple concurrent actions (e.g., ticket generation, e-mail delivery, access links).
 * **Architecture & Patterns:** Built using **MVC Architecture** to separate business logic, routing, and database communication cleanly.
 * **Tech Stack:** Node.js, Express.js, PostgreSQL, Webhooks, SMTP, Linux.
 * **Links:** [📁 Repository](https://github.com/[your-username]/pix-payment-checkout)
 
-### 🏦 2. Virtual Prepaid Card Platform
+### 🏦 2. Virtual Prepaid Card Platform (soon)
 **A robust FinTech backend application to manage prepaid virtual card lifecycles.**
 * **Core Features:** Handles balance management, secure ledger transactions, dynamic card issuance, and status tracking for virtual payment cards. Designed with a strict security and transactional mindset to avoid race conditions.
 * **Tech Stack:** Node.js, Express.js, PostgreSQL, MVC.
 * **Links:** [📁 Repository](https://github.com/[your-username]/prepaid-card-platform)
 
-### 📊 3. Smart Finance Manager
+### 📊 3. Smart Finance Manager (under development)
 **Financial automation platform designed to ingest and parse bank transactions.**
 * **Core Features:** Allows users to bulk-upload standard bank statements for automated parsing and expense categorization. Includes an integration layer designed to connect with Open Finance APIs for real-time financial data synchronization.
 * **Tech Stack:** PHP, Laravel, SQL (PostgreSQL), MVC.
