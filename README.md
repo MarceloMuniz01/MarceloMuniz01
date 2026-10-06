@@ -25,7 +25,7 @@ Backend Engineer focused on building secure, scalable, and high-performance fina
 **Financial automation platform designed to ingest and parse bank transactions.**
 * **Core Features:** Allows users to bulk-upload standard bank statements for automated parsing and expense categorization. Includes an integration layer designed to connect with Open Finance APIs for real-time financial data synchronization.
 * **Tech Stack:** PHP, Laravel, SQL (PostgreSQL), MVC.
-* **Links:** [📁 Repository](https://github.com/[your-username]/laravel-finance-manager)
+* **Links:** [📁 Repository](https://github.com/MarceloMuniz01/financas-pro)
 
 ---
 
